@@ -1,4 +1,4 @@
-Eightvape website using HTML CSS Bootstrap
+Eightvape website
 
 https://github.com/CrypticNumbers8/EightVape/assets/57065053/4f8067b7-8a0e-43ed-978b-52bb3a01d4b9
 
